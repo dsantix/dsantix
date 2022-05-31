@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Blind.GG**
 
-- 🌱 I’m currently learning **Cyber Security and Machine Learning**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 📫 How to reach me **dsantirafael@gmail.com**
 
