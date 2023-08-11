@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 📫 How to reach me **dsantirafael@gmail.com**
+- 📫 How to reach me **rafaeldsanti@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
